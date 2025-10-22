@@ -1,0 +1,28 @@
+https://api.themoviedb.org/3 - Domain url
+
+
+f1ee39c118cc841437072e1a8dd755c5 - API Key
+
+
+https://api.themoviedb.org/3//keyword/{keyword_id}/movies fake url
+
+Individual:
+ https://api.themoviedb.org/3/discover/movie/{movie_id}?api_key=eef7e730e0b9457d80bae8af962462d7
+
+Now Playing:
+
+
+ https://api.themoviedb.org/3/movie/now_playing?api_key=eef7e730e0b9457d80bae8af962462d7 crct one
+
+Popular:
+ https://api.themoviedb.org/3/movie/popular?api_key=f1ee39c118cc841437072e1a8dd755c5
+ https://api.themoviedb.org/3/movie/popular?api_key=eef7e730e0b9457d80bae8af962462d7 crct one
+
+Top Rated:
+ https://api.themoviedb.org/3/movie/top_rated?api_key=f1ee39c118cc841437072e1a8dd755c5
+
+Upcoming: 
+ https://api.themoviedb.org/3/movie/upcoming?api_key=f1ee39c118cc841437072e1a8dd755c5
+
+Search:
+ https://api.themoviedb.org/3/search/movie?api_key=f1ee39c118cc841437072e1a8dd755c5&query={movie_name}
